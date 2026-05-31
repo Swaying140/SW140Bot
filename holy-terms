@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>Terms of Service</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1,h2{
+            color:#5865F2;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Terms of Service</h1>
+
+<p>Last Updated: 2026-05-31</p>
+
+<h2>1. Acceptance of Terms</h2>
+<p>
+By inviting and using this Discord Bot, you agree to these Terms of Service.
+If you do not agree, please remove the Bot from your server.
+</p>
+
+<h2>2. Use of the Bot</h2>
+<p>
+The Bot is provided for moderation, server management, utility, and entertainment purposes.
+You agree not to use the Bot for unlawful activities, abuse, spam, or activities that violate Discord's Terms of Service.
+</p>
+
+<h2>3. Availability</h2>
+<p>
+The Bot is provided "as is" without guarantees of uptime, availability, or functionality.
+Features may be modified, suspended, or removed at any time.
+</p>
+
+<h2>4. User Responsibilities</h2>
+<p>
+Server administrators are responsible for how they use the Bot's moderation and management features.
+The Bot owner is not responsible for actions taken by server staff using the Bot.
+</p>
+
+<h2>5. Limitation of Liability</h2>
+<p>
+The Bot owner shall not be liable for any damages, data loss, server configuration changes, or other issues resulting from the use of the Bot.
+</p>
+
+<h2>6. Termination</h2>
+<p>
+Access to the Bot may be restricted or terminated at any time for misuse, abuse, or violations of Discord policies.
+</p>
+
+<h2>7. Changes to Terms</h2>
+<p>
+These Terms may be updated at any time. Continued use of the Bot constitutes acceptance of any changes.
+</p>
+
+<h2>8. Contact</h2>
+<p>
+For questions regarding these Terms, please contact the Bot developer through Discord.
+</p>
+
+</body>
+</html>
